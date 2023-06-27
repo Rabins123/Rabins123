@@ -6,7 +6,7 @@
 <a href="#"><img width="650px" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=58a6ff&size=22&center=true&lines=Hello,+World+🌎;Welcome+to+my+profile+😎;Happy+to+see+you+here+😀;Feel+free+to+look+around+😌;Reach+me+out+if+you+need+me+🤗;Have+a+great+day+😊"></a>
 </p>
 
-<h1 align="center"> Hello Guys!🤠, Anubhav's Here 🚩</h1>
+<h1 align="center"> Hello Guys!🤠, Rabins's Here 🚩</h1>
 
 <h3 align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -58,12 +58,12 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 </h3>
 
-<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-AnubhavRaj980&style=flat-square&color=22CCB2">
+<img width="200px" align="left" src="https://komarev.com/ghpvc/?username=your-github-Rabins123&style=flat-square&color=22CCB2">
 <hr>
 <br>
 
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnubhavRaj980&theme=2077"  display=block width=100% height=auto  alt="1" >
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rabins123&theme=2077"  display=block width=100% height=auto  alt="1" >
 </div>
 
 <h3 align="center">
